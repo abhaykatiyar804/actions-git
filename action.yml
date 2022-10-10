@@ -4,7 +4,7 @@ inputs:
   num:
     description: 'Enter a number'
     required: true
-    default: "1"
+    default: "2"
 
 outputs:
   num_squared:
